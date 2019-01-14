@@ -6,7 +6,7 @@ Do the following steps in <tt>Terminal</tt>.
 
 - Clone this repository.
 - Enter the cloned directory (<tt>cd netbeans-maxcos-app-creator</tt>) or the name you gave the clone.
-- Type "<tt>./create.sh</tt>" and follow the questions.
+- Type "<tt>./create.sh -h</tt>" and follow the questions.
 
 The scripts generates at least a subfolder "<tt>target</tt>" containing the <tt>Netbeans.app</tt> application.
 
