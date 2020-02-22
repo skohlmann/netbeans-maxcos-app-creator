@@ -1,3 +1,5 @@
+__NOTE: Deprecated__
+
 Simple script and template to generate a Netbeans starter application for MacOS.
 
 # Howto
